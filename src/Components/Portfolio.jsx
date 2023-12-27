@@ -37,10 +37,10 @@ const projectList = [
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Enquiry Web-Page",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Tribute/Business website using HTML, CSS, JavaScript , jQuery for beautification of front-end. This was a side project developed during the Third Year of engineering. This showcases details of the client along with business enquiries page and social media pages.",
+    url: "https://seedhe-maut.netlify.app/",
   },
   {
     title: "My Resume Site",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Taco Junction",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " Snacks and Beverage website containing menus from certain restaurant. You can order the following sitting from home. Orders will be received on WhatsApp as Messages.",
+    url: "https://aditheripper.github.io/Taco-Jn/",
   },
 ];
 
