@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://AdiTheRipper.github.io/Portfolio",
+  "homepage": "http://AdiTheRipper.github.io/adi-portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://AdiTheRipper.github.io/Portfolio'",
+    "build-gh": "parcel build --public-url 'http://AdiTheRipper.github.io/adi-portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
